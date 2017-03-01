@@ -1,0 +1,24 @@
+{
+  "name": "slakbal/form-builder-bs4",
+  "description": "Laravel package for building forms with bootstrap 4 Alpha 6",
+  "require": {
+    "php": ">=5.6.4",
+    "laravelcollective/html": ">=5.4.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Slakbal\\form-builder-bs4\\": "src/"
+    },
+    "files": [
+    ]
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Leslie Price",
+      "email": "leslie.price78@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "dev"
+}
