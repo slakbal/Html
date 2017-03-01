@@ -1,6 +1,6 @@
 <?php
 
-namespace Slakbal\Html\Traits;
+namespace Slakbal\HtmlBs4\Traits;
 
 trait Forms
 {

@@ -1,10 +1,10 @@
-<?php namespace Slakbal\Html;
+<?php namespace Slakbal\HtmlBs4;
 
-use Slakbal\Html\Traits\Buttons;
-use Slakbal\Html\Traits\Fields;
-use Slakbal\Html\Traits\Modals;
-use Slakbal\Html\Traits\Select;
-use Slakbal\Html\Traits\TypeAhead;
+use Slakbal\HtmlBs4\Traits\Buttons;
+use Slakbal\HtmlBs4\Traits\Fields;
+use Slakbal\HtmlBs4\Traits\Modals;
+use Slakbal\HtmlBs4\Traits\Select;
+use Slakbal\HtmlBs4\Traits\TypeAhead;
 use Collective\Html\FormBuilder as CollectiveFormBuilder;
 use Illuminate\Support\Facades\Session;
 

@@ -1,5 +1,5 @@
 <?php
-namespace Slakbal\Html;
+namespace Slakbal\HtmlBs4;
 
 use FormBuilder;
 use HtmlBuilder;
