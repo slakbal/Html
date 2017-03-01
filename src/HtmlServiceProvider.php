@@ -1,8 +1,6 @@
 <?php
 namespace Slakbal\HtmlBs4;
 
-use FormBuilder;
-use HtmlBuilder;
 use Collective\Html\HtmlServiceProvider as IlluminateHtmlServiceProvider;
 
 class HtmlServiceProvider extends IlluminateHtmlServiceProvider
