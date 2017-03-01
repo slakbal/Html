@@ -1,5 +1,5 @@
 <?php
-namespace Slakbal\HtmlBs4;
+namespace Slakbal\Html;
 
 use Collective\Html\HtmlServiceProvider as IlluminateHtmlServiceProvider;
 

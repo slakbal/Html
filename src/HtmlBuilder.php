@@ -1,8 +1,8 @@
-<?php namespace Slakbal\HtmlBs4;
+<?php namespace Slakbal\Html;
 
-use Slakbal\HtmlBs4\Traits\Alert;
-use Slakbal\HtmlBs4\Traits\Image;
-use Slakbal\HtmlBs4\Traits\Labels;
+use Slakbal\Html\Traits\Alert;
+use Slakbal\Html\Traits\Image;
+use Slakbal\Html\Traits\Labels;
 use Collective\Html\HtmlBuilder as CollectiveHtmlBuilder;
 
 class HtmlBuilder extends CollectiveHtmlBuilder

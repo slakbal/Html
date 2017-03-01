@@ -1,6 +1,6 @@
 <?php
 
-namespace Slakbal\HtmlBs4\Traits;
+namespace Slakbal\Html\Traits;
 
 trait Image
 {

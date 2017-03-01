@@ -1,5 +1,5 @@
 {
-  "name": "slakbal/html-bs4",
+  "name": "slakbal/html",
   "description": "Laravel package for building forms with bootstrap 4 Alpha 6.",
   "require": {
     "php": ">=5.6.4",
