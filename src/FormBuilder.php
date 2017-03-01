@@ -1,4 +1,4 @@
-<?php namespace App\Helpers\Html;
+<?php namespace Slakbal\Html;
 
 use Slakbal\Html\Traits\Buttons;
 use Slakbal\Html\Traits\Fields;

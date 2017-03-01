@@ -1,4 +1,4 @@
-<?php namespace App\Helpers\Html;
+<?php namespace Slakbal\Html;
 
 use Slakbal\Html\Traits\Alert;
 use Slakbal\Html\Traits\Image;
