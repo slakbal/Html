@@ -7,7 +7,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Slakbal\\form-builder-bs4\\": "src/"
+      "Slakbal\\Html\\": "src/"
     },
     "files": [
     ]
