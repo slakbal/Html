@@ -9,7 +9,7 @@ Assumption: Bootstrap 4 is ready and installed into the project.
 Begin by installing this package through Composer. Run the following from the terminal or edit composer.json and update:
 
 ~~~
-composer require "slakbal/form-builder-bs4":"*"
+composer require "slakbal/html":"*"
 ~~~
 
 Next, add your new provider to the providers array of config/app.php. Remove any other provider for example the standard form builder.
@@ -18,7 +18,7 @@ Next, add your new provider to the providers array of config/app.php. Remove any
   'providers' => [
     // ...
     //Collective\Html\HtmlServiceProvider::class,
-    Slakbal\Form-Builder-BS4\HtmlServiceProvider::class,
+    Slakbal\Html\HtmlServiceProvider::class,
     // ...
   ],
 ~~~
