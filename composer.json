@@ -26,6 +26,17 @@
       "Slakbal\\Html\\Test\\": "tests"
     }
   },
-  "minimum-stability": "dev",
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Slakbal\\Html\\HtmlServiceProvider"
+      ],
+      "aliases": {
+        "Form": "Collective\\Html\\FormFacade",
+        "Html": "Collective\\Html\\HtmlFacade"
+      }
+    }
+  },
+  "minimum-stability": "stable",
   "license": "MIT"
 }
