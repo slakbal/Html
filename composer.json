@@ -9,8 +9,7 @@
     }
   ],
   "require": {
-    "laravelcollective/html": "*",
-    "illuminate/support": "~5"
+    "laravelcollective/html": "*"
   },
   "require-dev": {
     "phpunit/phpunit": "~6.0"
